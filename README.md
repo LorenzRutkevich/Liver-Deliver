@@ -62,3 +62,7 @@ Further information can be found in the ReadME.md file, which is written in germ
 
 ![Unet](https://user-images.githubusercontent.com/88616547/189702861-16b88b05-ec84-40db-a195-aa467164135f.png)
 
+#### AttResUnet:
+
+![AttResUnet(small)](https://user-images.githubusercontent.com/88616547/189703255-f4694367-7a4b-4d4b-ba51-7ce55782b0ba.png)
+
