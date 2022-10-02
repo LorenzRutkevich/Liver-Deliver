@@ -36,17 +36,19 @@ https://streamlit.io/
 Create the conda environment **environment.yml**.
 
 1. Create Environment:
-
-			conda env create -f environment.yml
-
+```
+conda env create -f environment.yml
+```
 2. Activate Environment:
 
-			conda activate BWKI_1
+```
+conda activate BWKI_1
+```
 
 3. Check Environment:
-
-			conda env list
-
+```
+conda env list
+```
 
 ##### Requirements.txt:
 
