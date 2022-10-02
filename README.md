@@ -11,7 +11,7 @@ Visit the website where you can try out my models yourself: https://lorenz-7-web
 - Data (original):
 https://competitions.codalab.org/competitions/17094
 
-- Data (verarbeitet):
+- Data (augmented):
 https://www.kaggle.com/datasets/andrewmvd/lits-png 
 
 - U-Net (paper):
