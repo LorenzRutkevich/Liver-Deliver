@@ -29,7 +29,7 @@ https://arxiv.org/abs/1909.10360
 - Metrics:
 https://datascience.stackexchange.com/questions/45165/how-to-get-accuracy-f1-precision-and-recall-for-a-keras-model
 
-- Streamlit
+- Streamlit:
 https://streamlit.io/
 ---
 #### Requirements:
@@ -52,8 +52,9 @@ Create the conda environment **environment.yml**.
 
 Install using the requirements.txt file.
 
-			pip install -r requirements.txt
-
+```
+pip install -r requirements.txt
+```
 ---
 #### Usage:
 
