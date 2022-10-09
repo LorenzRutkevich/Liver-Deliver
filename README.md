@@ -6,11 +6,17 @@ Visit the website where you can try out my models yourself: https://lorenz-7-web
 ---
 ##### Technical Sources:
 
-- Data (original):
+- Data-Liver (original):
 https://competitions.codalab.org/competitions/17094
 
-- Data (augmented):
+- Data-Liver (preprocessed):
 https://www.kaggle.com/datasets/andrewmvd/lits-png 
+
+- Data-Gl-Tract (original):
+https://www.kaggle.com/competitions/uw-madison-gi-tract-image-segmentation
+
+- Data-Gl-Tract (preprocessed)
+https://www.kaggle.com/datasets/purplejester/uwm-images-and-masks
 
 - U-Net (paper):
 https://arxiv.org/abs/1505.04597
