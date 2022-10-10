@@ -36,7 +36,7 @@ https://datascience.stackexchange.com/questions/45165/how-to-get-accuracy-f1-pre
 - Streamlit:
 https://streamlit.io/
 
-The models were not implemented by me, however I changed and made them better so they'd fit my project.
+The models **were not** implemented by me, however I changed and made them better so they'd fit my project.
 
 ---
 #### Requirements:
