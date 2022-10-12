@@ -2,6 +2,7 @@
 ---
 This repository contains my project for BWKI 2022. I concerned myself with liver and liver tumor segmentation using different U-Nets.
 Visit the website where you can try out my models yourself: https://lorenz-7-website-streamlit-drhper.streamlitapp.com/.
+**Are there any questions or problems, contact me: lorenz.bwki@gmail.com**
 
 ---
 ##### Technical Sources:
@@ -69,7 +70,6 @@ pip install -r requirements.txt
 
 You need a base-directory in which your augmented data (train_images_augmented..., val_images_augmented, test_masks, test_images) is. Otherwise your base-directory needs to contain the folders (train_images..., val_images). Once your data is ready, you can load it in via changing the hyperparamters using argparse. You can find many models in the resunet.py or models.py file, AttResUnet(small) is the most efficient one. 
 Further information can be found in the ReadME.md file, which is written in german.
-**Are there any questions or problems, contact me: lorenz.bwki@gmail.com**
 
 ---
 #### U-Net:
