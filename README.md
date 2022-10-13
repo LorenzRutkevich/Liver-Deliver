@@ -71,12 +71,3 @@ pip install -r requirements.txt
 You need a base-directory in which your augmented data (train_images_augmented..., val_images_augmented, test_masks, test_images) is. Otherwise your base-directory needs to contain the folders (train_images..., val_images). Once your data is ready, you can load it in via changing the hyperparamters using argparse. You can find many models in the resunet.py or models.py file, AttResUnet(small) is the most efficient one. 
 Further information can be found in the ReadME.md file, which is written in german.
 
----
-#### U-Net:
-
-![Unet](https://user-images.githubusercontent.com/88616547/189702861-16b88b05-ec84-40db-a195-aa467164135f.png)
-
-#### AttResUnet:
-
-![AttResUnet(small)](https://user-images.githubusercontent.com/88616547/189703255-f4694367-7a4b-4d4b-ba51-7ce55782b0ba.png)
-
