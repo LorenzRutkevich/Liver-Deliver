@@ -2,7 +2,6 @@
 ---
 This repository contains my project for BWKI 2022. I concerned myself with liver and liver tumor segmentation using different U-Nets.
 Visit the website where you can try out my models yourself: https://lorenz-7-website-streamlit-drhper.streamlitapp.com/.
-**Are there any questions or problems, contact me: lorenz.bwki@gmail.com**
 
 ---
 ##### Technical Sources:
@@ -36,9 +35,6 @@ https://datascience.stackexchange.com/questions/45165/how-to-get-accuracy-f1-pre
 
 - Streamlit:
 https://streamlit.io/
-
-The models **were not** implemented by me, however I changed and made them better so they'd fit my project.
-
 ---
 #### Requirements:
 Create the conda environment **environment.yml**.
