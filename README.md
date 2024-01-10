@@ -1,7 +1,6 @@
 #### Liver Deliver
 ---
 This repository contains my project for BWKI 2022. I concerned myself with liver and liver tumor segmentation using different U-Nets.
-Visit the website where you can try out my models yourself: https://lorenz-7-website-streamlit-drhper.streamlitapp.com/.
 
 ---
 ##### Technical Sources:
