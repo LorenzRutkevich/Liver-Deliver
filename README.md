@@ -29,11 +29,6 @@ https://arxiv.org/abs/1804.03999
 - Residual Attention U-Net (paper):
 https://arxiv.org/abs/1909.10360
 
-- Metrics:
-https://datascience.stackexchange.com/questions/45165/how-to-get-accuracy-f1-precision-and-recall-for-a-keras-model
-
-- Streamlit:
-https://streamlit.io/
 ---
 #### Requirements:
 Create the conda environment **environment.yml**.
